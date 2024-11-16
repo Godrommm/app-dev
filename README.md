@@ -1,2 +1,12 @@
-# app-dev
-My first repository
+# **My Favorite Movies/Series**
+# *Fantasy*
+- Harry Potter
+- WandaVision
+- Agatha All Along
+- IF
+# *Horror*
+- Ready or Not
+- Totally Killer
+- Last Night in Soho
+- Brightburn
+- As Above, So Below
