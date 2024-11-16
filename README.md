@@ -1,13 +1,10 @@
-# app-dev
-**My Favorite Movies/Series**
-# app-dev
-*Fantasy*
+# **My Favorite Movies/Series**
+# *Fantasy*
 - Harry Potter
 - WandaVision
 - Agatha All Along
 - IF
-# app-dev
-*Horror*
+# *Horror*
 - Ready or Not
 - Totally Killer
 - Last Night in Soho
